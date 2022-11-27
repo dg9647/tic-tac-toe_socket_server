@@ -33,7 +33,7 @@ Enter coordinate:
 
 We used a server/client network architecture for this project using TCP (Transmission Control Protocol), and we used port 12783. The messages were sent back and forth between the server and the client thanks to the pickle module, which converts any object (in this case, a string list storing the nine squares of a tic-tac-toe grid) into a byte stream to be sent and back into an object to be read. 
 ## Demo
-![image](https://user-images.githubusercontent.com/52796258/136496822-268fc91a-4826-4abb-9a13-9076117c3063.png)
+![image](https://user-images.githubusercontent.com/74291505/204127050-1a1a55f1-ee5c-42f7-b102-6136e98f6192.png)
 
 ## Development Environment
 
