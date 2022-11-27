@@ -35,6 +35,9 @@ We used a server/client network architecture for this project using TCP (Transmi
 ## Demo
 ![image](https://user-images.githubusercontent.com/74291505/204127050-1a1a55f1-ee5c-42f7-b102-6136e98f6192.png)
 
+![image](https://user-images.githubusercontent.com/74291505/204127079-fe0d654f-fbca-467b-a718-316edf6cfbb3.png)
+
+
 ## Development Environment
 
 * Visual Studio Code
