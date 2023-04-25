@@ -5,7 +5,7 @@ This is a project for the class : 18CSC302J - Computer Networks by Mrs. R Lavany
 * Divyansh Gupta RA2011003011252
 * Utkarsh Saboo RA2011003011248
 * Aditya Giri Goswami RA2011003011251
-* PPurva Atul Tarale RA2011003011253
+* Purva Atul Tarale RA2011003011253
 
 
 ## Overview
