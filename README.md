@@ -1,12 +1,4 @@
 # TicTacToe using Socket Server
-This is a project for the class : 18CSC302J - Computer Networks by Mrs. R Lavanya
-
-#### Contributors
-* Divyansh Gupta RA2011003011252
-* Utkarsh Saboo RA2011003011248
-* Aditya Giri Goswami RA2011003011251
-* Purva Atul Tarale RA2011003011253
-
 
 ## Overview
 
